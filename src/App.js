@@ -64,7 +64,7 @@ const App = () => {
         <svg width={width} height={height}>
           <Legend innerWidth={innerWidth} innerHeight={innerHeight} />
           <text stroke="black" x={width / 2} y={margin.top - 25} id="title" textAnchor="middle">
-            <tspan>Doping in Professional Bicylce Racing</tspan>
+            <tspan>Doping in Professional Bicycle Racing</tspan>
             <tspan className="title-small" x={width / 2} dy="1.2em">
               35 Fastest times up Alpe d'Huez
             </tspan>
